@@ -1,5 +1,9 @@
-## 基于react框架的井字棋游戏
+# 基于react框架的井字棋游戏
 
+## 项目背景
+井字棋游戏，该游戏基于react框架，来源于react官方文档，我在学习的过程中把这个小游戏也做了一遍
+
+## 使用方式
 使用它?
 ```shell
 git clone https://github.com/anghunk/jingziqi-game
